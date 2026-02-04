@@ -1,7 +1,7 @@
 # Double click images in obsidian to open in MacOS default Preview.app 
 
 ```
-cd /Users/tal/wudan/dojo/obsidian-preview-opener
+cd bsidian-preview-opener
 npm run build
-cp main.js manifest.json "/Users/tal/archivum-aeternum/.obsidian/plugins/preview-opener/"
+cp main.js manifest.json "$HOME/.obsidian/plugins/preview-opener/"
 ```
